@@ -1,4 +1,4 @@
-# Data Visualization Project Proposal
+# Data Visualization Project Proposal - All Space Missions from 1957
 CS573 Course Project
 
 ## Data
@@ -7,7 +7,7 @@ The data I propose to visualize for my project is [All Space Missions from 1957]
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a graph about mission status of all rocket companies of all time and it shows that RVSN USSR launches much more rocket than other companies while holding nearly the lowest success rate.
 
 [![image](https://user-images.githubusercontent.com/54681253/94498924-5cafa000-01c9-11eb-9951-1b97cdb47166.png)](https://vizhub.com/lintonylin/79293d981a6d43389edf8b4186f5b6dd?mode=full)
 
@@ -30,3 +30,14 @@ It is based on world map. This visualization will show the comparison among coun
 
  * It seems too hard to implement the "year" scroll bar. 
  * And it hard to control the size of circles in order to keep an adequate size for all years without overlapping.
+
+## Schedule of Deliverables
+
+ * Task 1: Build a world map with country borders. 
+    * Week 1, estimate 5 hours
+ * Task 2: Pin the location(City) of missions on the map, create a pie chart(raw) for each city.
+    * Week 2, estimate 8 hours
+ * Task 3: Refine pie charts, add "status mission" information. Using color hue for status categories. Using size of pie chart for the number of missions. Adding tooltip to show each company's name, city, country, missions and success rate.
+    * Week 3-4, estimate 12 hours
+ * Task 4: Add Timeline, the "CrossFilter" will be my target. Thus, we can select to show information of one year or several years.
+    * Week 4-5, estimate 36 hours
