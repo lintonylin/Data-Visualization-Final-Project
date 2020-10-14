@@ -35,9 +35,9 @@ It is based on world map. This visualization will show the comparison among coun
 
  * Task 1: Build a world map with country borders. 
     * Week 1, estimate 5 hours
- * Task 2: Pin the location(City) of missions on the map, create a pie chart(raw) for each city.
+ * Task 2: Pin the location(Country) of missions on the map, create a pie chart(raw) for each country.
     * Week 2, estimate 8 hours
- * Task 3: Refine pie charts, add "status mission" information. Using color hue for status categories. Using size of pie chart for the number of missions. Adding tooltip to show each company's name, city, country, missions and success rate.
+ * Task 3: Refine pie charts, add "status mission" information. Using color hue for status categories. Using size of pie chart for the number of missions. Adding tooltip to show each company's name, country, missions and success rate.
     * Week 3-4, estimate 12 hours
  * Task 4: Add Timeline, the "CrossFilter" will be my target. Thus, we can select to show information of one year or several years.
     * Week 4-5, estimate 36 hours
