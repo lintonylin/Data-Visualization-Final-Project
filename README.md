@@ -27,11 +27,15 @@ The following tasks and questions drive the visualization and interaction decisi
 
 Based on Vega Lite API, I'm able to visualize the space missions for different companies throughout the world since 1957. There's color legend for different mission status. So, we can compare the number of launches and the success rate for differnet companies by this visualization.
 
+See code under Viz1 folder.
+
 ### 2. Space missions for different countries since 1957
 
 [![image](https://user-images.githubusercontent.com/54681253/98177507-c3129700-1ec8-11eb-9217-ddfddf5fe23e.jpg)](https://vizhub.com/lintonylin/bad81b3a95a144b69e5ad4436bb22621?edit=files&file=index.html&mode=full)
 
 It is based on world map with D3.js. This visualization shows the comparison of number of missions and status of missons among countries. We can find country with greatest number of missions and the most sucessfull country for lauch missions.
+
+See code under Viz2 folder.
 
 ## Working Progress
 
